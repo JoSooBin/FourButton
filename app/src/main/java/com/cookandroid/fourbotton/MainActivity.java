@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
         button3.setBackgroundColor(Color.RED);
         button4.setBackgroundColor(Color.YELLOW);
 
+        //클릭시 실행기능
         button1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
