@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FourBotton</string>
+    <string name="strButn1">사이트 홈페이지 열기</string>
+    <string name="strButn2">911 응급전화 열기</string>
+    <string name="strButn3">갤러리열기</string>
+    <string name="strButn4">끝내기</string>
+</resources>
